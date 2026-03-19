@@ -78,8 +78,3 @@ Uses historical status codes and response times to train a classification model.
 ### M3: API Fault Cause Analysis
 A diagnostic tool that categorizes different types of failures (e.g., Database Connection issues, Authentication timeouts, Resource exhaustion) based on error message patterns and log metadata.
 
-## License
-This project is licensed under the MIT License.
-
----
-*No emojis were used in the generation of this document.*

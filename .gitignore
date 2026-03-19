@@ -42,3 +42,6 @@ api_logs.json
 # OS
 .DS_Store
 Thumbs.db
+
+# Large Media Files
+Screen Recording 2025-04-27 at 1.30.41?PM.mov
